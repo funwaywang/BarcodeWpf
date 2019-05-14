@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>BarcodeWPF</id>
+    <version>1.16.1108</version>
+    <authors>Funway</authors>
+    <owners>Funway</owners>
+    <licenseUrl>http://barcodewpf.codeplex.com/license</licenseUrl>
+    <projectUrl>http://barcodewpf.codeplex.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>BarcodeWPF is pure WPF barcode control, support multi-symbologies and colors, base on http://barcoderender.codeplex.com</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright Funway 2016</copyright>
+    <tags>Barcode WPF</tags>
+    <dependencies></dependencies>
+  </metadata>
+  <files>
+  	<file src="..\BarcodeWpf\bin\Release\BarcodeWpf.dll" target="lib\net40\BarcodeWpf.dll"/>
+  </files>
+</package>
